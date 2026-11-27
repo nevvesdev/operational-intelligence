@@ -34,8 +34,8 @@ Este projeto simula esse cenário na **Nexus Serviços Corporativos**, empresa f
 | Fase | Desenvolvimento | Status |
 |---|---|---|
 | 0 | Estruturação do projeto e regras de negócio | Concluída |
-| 1 | Criação da base operacional sintética | Em andamento |
-| 2 | Qualidade e tratamento dos dados | Pendente |
+| 1 | Criação da base operacional sintética | Concluída |
+| 2 | Qualidade e tratamento dos dados | Em andamento |
 | 3 | Modelagem e consultas analíticas | Pendente |
 | 4 | Indicadores operacionais | Pendente |
 | 5 | Dashboard gerencial | Pendente |
@@ -48,6 +48,7 @@ Este projeto simula esse cenário na **Nexus Serviços Corporativos**, empresa f
 - [Dicionário de dados](docs/dicionario-de-dados.md)
 - [Indicadores](docs/indicadores.md)
 - [Geração da base sintética](docs/geracao-da-base.md)
+- [Qualidade e tratamento dos dados](docs/qualidade-de-dados.md)
 
 ## Como executar
 
