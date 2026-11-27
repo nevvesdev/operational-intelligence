@@ -36,9 +36,9 @@ Este projeto simula esse cenário na **Nexus Serviços Corporativos**, empresa f
 | 0 | Estruturação do projeto e regras de negócio | Concluída |
 | 1 | Criação da base operacional sintética | Concluída |
 | 2 | Qualidade e tratamento dos dados | Concluída |
-| 3 | Modelagem e consultas analíticas | Em andamento |
-| 4 | Indicadores operacionais | Pendente |
-| 5 | Dashboard gerencial | Pendente |
+| 3 | Modelagem e consultas analíticas | Concluída |
+| 4 | Indicadores operacionais | Concluída |
+| 5 | Dashboard gerencial | Em andamento |
 | 6 | Automação de relatórios | Pendente |
 | 7 | Camada de inteligência artificial | Pendente |
 
