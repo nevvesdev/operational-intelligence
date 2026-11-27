@@ -35,8 +35,8 @@ Este projeto simula esse cenário na **Nexus Serviços Corporativos**, empresa f
 |---|---|---|
 | 0 | Estruturação do projeto e regras de negócio | Concluída |
 | 1 | Criação da base operacional sintética | Concluída |
-| 2 | Qualidade e tratamento dos dados | Em andamento |
-| 3 | Modelagem e consultas analíticas | Pendente |
+| 2 | Qualidade e tratamento dos dados | Concluída |
+| 3 | Modelagem e consultas analíticas | Em andamento |
 | 4 | Indicadores operacionais | Pendente |
 | 5 | Dashboard gerencial | Pendente |
 | 6 | Automação de relatórios | Pendente |
@@ -49,6 +49,7 @@ Este projeto simula esse cenário na **Nexus Serviços Corporativos**, empresa f
 - [Indicadores](docs/indicadores.md)
 - [Geração da base sintética](docs/geracao-da-base.md)
 - [Qualidade e tratamento dos dados](docs/qualidade-de-dados.md)
+- [Modelagem e consultas analíticas](docs/modelagem-e-consultas.md)
 
 ## Como executar
 
