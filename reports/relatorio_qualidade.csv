@@ -1,0 +1,10 @@
+﻿problema;esperado;detectado;acertos;falsos_positivos;nao_detectados;acao
+conclusao_anterior_abertura;48;48;48;0;0;quarentena
+departamento_variado;240;240;240;0;0;padronizado
+duplicata;120;120;120;0;0;quarentena
+nulo_canal_abertura;40;40;40;0;0;marcado como não informado
+nulo_prioridade;40;40;40;0;0;inferido pelo prazo
+nulo_responsavel;40;40;40;0;0;marcado como não informado
+nulo_solicitante;40;40;40;0;0;marcado como não informado
+status_inconsistente;64;64;64;0;0;quarentena
+tipo_fora_catalogo;56;56;56;0;0;padronizado
