@@ -27,3 +27,8 @@ def salvar_excel(abas, caminho):
             for coluna in aba.columns:
                 maior = max(len(str(celula.value)) if celula.value is not None else 0 for celula in coluna[:200])
                 aba.column_dimensions[coluna[0].column_letter].width = min(maior + 2, 45)
+
+
+def salvar_csv_padrao(df, caminho):
+    caminho.parent.mkdir(parents=True, exist_ok=True)
+    df.to_csv(caminho, index=False, encoding="utf-8", date_format="%Y-%m-%d %H:%M:%S")
